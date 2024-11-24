@@ -45,4 +45,7 @@ dmypy.json
 #packages
 */Lib/site-packages/
 
+#bitmap files
+*.bmp
+
 # Jupyter Notebook checkpoints
